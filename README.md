@@ -1,4 +1,4 @@
-[![PyPI - License](https://img.shields.io/pypi/l/autotwin_pnglib)](https://github.com/weicheng22/petri_net_model_gen/blob/master/LICENSE) [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/autotwin_gmglib)](https://www.python.org/downloads/) [![PyPI - Version](https://img.shields.io/pypi/v/autotwin_pnglib)](https://pypi.org/project/autotwin_pnglib/)
+[![PyPI - License](https://img.shields.io/pypi/l/autotwin_pnglib)](https://github.com/AutotwinEU/petri_net_model_gen/blob/master/LICENSE) [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/autotwin_gmglib)](https://www.python.org/downloads/) [![PyPI - Version](https://img.shields.io/pypi/v/autotwin_pnglib)](https://pypi.org/project/autotwin_pnglib/)
 
 # Petri Net Model Generation Library for Auto-Twin
 
