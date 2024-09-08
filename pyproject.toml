@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "autotwin_pnglib"
-version = "0.1.0"
+version = "0.1.1"
 description = "Petri Net Model Generation Library for Auto-Twin"
 license = "BSD-3-Clause"
 authors = [
@@ -26,6 +26,7 @@ pygraphviz = "^1.12"
 matplotlib = "^3.8.3"
 scipy = "^1.13.0"
 SNAKES = "^0.9.33"
+PySCIPOpt = "^5.1.1"
 autotwin_gmglib = "^0.1.4"
 autotwin_pmswsgi = "^0.1.4"
 
