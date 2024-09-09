@@ -10,7 +10,7 @@
             "oi_ratio": 1.6
         }
     },
-  "path":
+    "path":
     {
         "recons_state": "data/croma-case/recons_state.csv",
         "input_data": "data/croma-case/input_data.csv",
