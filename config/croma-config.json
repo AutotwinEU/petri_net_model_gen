@@ -1,0 +1,19 @@
+{
+    "name": "Croma Case",
+    "work_path": "croma-case",
+    "neo4j": {
+        "interval": ["2022-01-01T00:00:00Z", "2022-02-28T23:59:59Z"]
+    },
+    "model": {
+        "operation": {
+            "io_ratio": 1.6,
+            "oi_ratio": 1.6
+        }
+    },
+    "path":
+    {
+        "recons_state": "recons_state.csv",
+        "input_data": "input_data.csv",
+        "model": "model"
+    }
+}
